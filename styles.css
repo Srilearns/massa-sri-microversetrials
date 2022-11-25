@@ -24,6 +24,7 @@ header {
   text-align: center;
   font-size: 1.8em;
   font-weight: thin;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #main-doc header {
@@ -109,5 +110,9 @@ code {
     position: relative;
     margin-left: 0px;
     margin-top: 270px;
+  }
+  code{
+    color: cornflowerblue;
+    font-size: medium;
   }
 
